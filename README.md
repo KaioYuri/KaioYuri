@@ -12,6 +12,11 @@ Sou apaixonado por programação, amante de tecnologia e fissurado em desafios. 
 
 ### Tenho interesse em
 <img title="Angular" height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> <img title="Node.js" height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <img title="Typescript" height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img title="Linux" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /> <img title="Sass" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> <img title="GraphQL" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioYuri&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioYuri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 https://gitlab.com/KaioYuri
 
