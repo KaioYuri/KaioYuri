@@ -17,10 +17,15 @@
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge">
 </a>
 </div>
+
 <br>
+
+<div align=center>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaioYuri&theme=transparent" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=KaioYuri&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaioYuri&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaioYuri&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>
