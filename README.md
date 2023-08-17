@@ -1,22 +1,26 @@
-
-<img align="left" alt="Coding" src="header.png">
-
-# <p align = "center">👾 Sou Desenvolvedor Fullstack! </p>
-
-<img title="Quazar em pixelart" align="right" height="300" src="https://64.media.tumblr.com/a93f500f2dfa15a1028644cf763b578e/tumblr_pb57lu31uF1xptjc0o1_1280.gifv">
-Sou apaixonado por programação, amante de tecnologia e fissurado em desafios. Tenho interesse em desenvolvimento de software, web e de jogos.
-
-## 🚀💻 Skills
-### Tenho experiência com
-<img title="HTML5" height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>  <img title="CSS3" height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img title="Javascript" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img title="Java" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> <img title="Spring" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img  title="Docker" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> <img title="Gitlab" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> 
-
-### Tenho interesse em
-<img title="Angular" height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> <img title="Node.js" height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <img title="Typescript" height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img title="Linux" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /> <img title="Sass" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> <img title="GraphQL" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioYuri&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioYuri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+- 🔭 I'm building values ​​at INPE
+- 🌱 Learning Design Patterns and Java
+- 🌟 What is your favorite thing? Challenges are mine. 🤩
+- 📫 How to reach me: 
+<div align=center>
+<a target="_blank" href="https://www.linkedin.com/in/kaio-yuri-2063b7248/">
+  <img src="https://img.shields.io/badge/-Kaio Yuri-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-yuri-2063b7248/" alt="Linkedin Badge"/>
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send/?phone=5584992304932&text&type=phone_number&app_absent=0">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+</a>
+</a>
+<a target="_blank" href="mailto:kaioyuri96@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+</a>
+<a target="_blank" href="gitlab.com.br/KaioYuri">
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge">
+</a>
 </div>
-
-https://gitlab.com/KaioYuri
-
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaioYuri&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaioYuri&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
