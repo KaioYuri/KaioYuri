@@ -1,5 +1,5 @@
 - 🔭 I'm building values ​​at DATAPREV
-- 🌱 Learning Design Patterns and Java
+- 🌱 Learning Data Structures and PySpark
 - 🌟 What is your favorite thing? Challenges are mine. 🤩
 - 📫 How to reach me: 
 <div align=center>
@@ -37,6 +37,12 @@
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
+## 🎲Data
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
+<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 ## 💿Systems Operations
 
