@@ -1,5 +1,5 @@
 - 🔭 I'm building values ​​at DATAPREV
-- 🌱 Learning Data Structures and PySpark
+- 🌱 Learning about data and web development
 - 🌟 What is your favorite thing? Challenges are mine. 🤩
 - 📫 How to reach me: 
 <div align=center>
