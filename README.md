@@ -1,6 +1,6 @@
 - 🔭 I'm building values ​​at DATAPREV
 - 🌱 Learning about data and web development
-- 🌟 What is your favorite thing? Challenges are mine. 🤩
+- 🌟 What is your favorite thing? For me, it's challenges. 🤩
 - 📫 How to reach me: 
 <div align=center>
 <a target="_blank" href="https://www.linkedin.com/in/kaio-yuri-2063b7248/">
